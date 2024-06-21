@@ -23,9 +23,29 @@ mi
 14 a 16
 </td><td><a href="https://www.fciencias.unam.mx/plantel/detalle/256">Taller de Lenguajes de Programación</a></td></tr></table>
 
-### 📚 Contenido
+### 🧩 Entregables
 
-<details><summary>Material Adicional</summary>
+<!--<details><summary>✏️ Exámenes</summary>
 </details>
 
-### 🧩 Entregables
+<details><summary>🖍️ Evaluaciones Semanales</summary>
+</details>
+
+<details><summary>🚀 Proyecto Final</summary>
+</details>
+
+<details><summary>🔬 Práctias</summary>
+</details>-->
+
+### 📚 Contenido
+
+<!---
+<details><summary>🙌 Material Adicional</summary>
+</details>
+
+<details><summary>🧪 Laboratorio</summary>
+</details>
+
+<details><summary>🐶 Unidad 1: Introducción</summary>
+</details>
+-->
