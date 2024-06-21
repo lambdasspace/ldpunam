@@ -1,2 +1,31 @@
-# unam_ldp
-Material del curso de Lenguajes de Programación impartido en la Facultad de Ciencias de la UNAM.
+# Lenguajes de Programación
+## Semestre 2025-1
+
+### 🤓 Información General
+
+<div style="padding-top: 10px;y"><strong>Grupo 7098</strong>, Modalidad presencial</div><table><tr><td align="right">
+Profesor
+</td><td><a href="/directorio/74224">Manuel Soto Romero</a></td><td align="right">
+lu mi vi
+</td><td align="right">
+11 a 12
+</td></tr><tr><td align="right">
+Ayudante
+</td><td><a href="/directorio/100311">Demian Alejandro Monterrubio Acosta</a></td><td align="right">
+ma ju
+</td><td align="right">
+11 a 12
+</td></tr><tr><td align="right">
+Ayud. Lab.
+</td><td><a href="/directorio/103122">Erik Rangel Limón</a></td><td align="right">
+mi
+</td><td align="right">
+14 a 16
+</td><td><a href="/plantel/detalle/256">Taller de Lenguajes de Programación</a></td></tr></table>
+
+### 📚 Contenido
+
+<details><summary>Material Adicional</summary>
+</details>
+
+### 🧩 Entregables
